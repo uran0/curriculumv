@@ -1,0 +1,92 @@
+.profile-picture {
+  width: 200px; 
+  height: auto;
+  display: block;
+  margin: 0 auto; 
+  border-radius: 50%; 
+  margin-bottom: 20px; 
+}
+
+.name {
+  text-align: center; 
+  font-size: 44px; 
+  font-weight: bold; 
+}
+
+.personal-info {
+  background-color: #fcfcfc; 
+  padding: 10px; 
+  border-radius: 10px; 
+  margin-top: 20px; 
+  max-width: 600px;
+  margin-left: auto; 
+  margin-right: auto;
+  border: 2px solid black;
+}
+
+.personal-info h2 {
+  margin-top: 0;
+}
+
+.intro {
+  text-align: center; 
+  margin-bottom: 22px;
+  font-size: 22px;
+}
+
+.education-info {
+  background-color: #e0e0e0; 
+  padding: 10px; 
+  border-radius: 10px; 
+  margin-top: 20px; 
+  max-width: 600px; 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+.education-info h2 {
+  margin-top: 0; 
+}
+
+.experiencia {
+  background-color: #fcfcfc; 
+  padding: 10px; 
+  border-radius: 10px; 
+  margin-top: 20px; 
+  max-width: 600px;
+  margin-left: auto; 
+  margin-right: auto;
+  border: 2px solid black;
+}
+
+.experiencia h2 {
+  margin-top: 0;
+}
+
+.conocimientos {
+  background-color: #e0e0e0; 
+  padding: 10px; 
+  border-radius: 10px; 
+  margin-top: 20px; 
+  max-width: 600px; 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+body {
+  background-color: #F5F5F5;
+  margin-left: 10px; 
+  margin-right: 10px; 
+}
+
+.pie {
+  background-color: #e0e0e0;
+  padding: 15px;
+  margin-top: 10px;
+}
+
+footer p {
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+}
